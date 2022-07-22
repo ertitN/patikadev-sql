@@ -8,4 +8,4 @@ SELECT COUNT(*) FROM film WHERE title LIKE 'C%';
 SELECT MAX(length) FROM film WHERE rental_rate = 0.99; 
 
 --film tablosunda bulunan filmlerin uzunluğu 150 dakikadan büyük olanlarına ait kaç farklı replacement_cost değeri vardır? Output:3
-SELECT COUNT(DISTINCT rental_rate) FROM film WHERE length > 150;
+SELECT COUNT(DISTINCT replacement_cost) FROM film WHERE length > 150;
