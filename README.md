@@ -1,3 +1,2 @@
 # patikadev-sql
-
-patika.dev SQL dersi ödevleri için açtığım repository
+I've opened this repository for patika.dev SQL lessons
