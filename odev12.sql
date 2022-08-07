@@ -17,14 +17,3 @@ INNER JOIN customer ON customer.customer_id = payment.customer_id
 
 GROUP BY payment.customer_id,customer.first_name
 ORDER BY total DESC;
-
-
- 
-
-
-
-
-
-
-
-
