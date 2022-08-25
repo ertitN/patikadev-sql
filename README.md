@@ -1,2 +1,3 @@
-# patikadev-sql
-I opened this repository for patika.dev SQL lessons. PostgreSQL was used.
+# Patikadev-sql
+patika.dev sql dersi için açtığım repo. PostgreSQL kullanıldı.
+
